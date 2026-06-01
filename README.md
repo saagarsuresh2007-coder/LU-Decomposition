@@ -9,6 +9,8 @@ To write a program to find the LU Decomposition of a matrix.
 
 Algorithm
 I
+
+
 Read the matrix from the user.
 
 Initialize lower triangular matrix L and upper triangular matrix U.
@@ -22,6 +24,7 @@ Display the matrices L and U.
 Verify that A = LU.
 
 II
+
 
 Import the NumPy library and define the matrix A.
 
